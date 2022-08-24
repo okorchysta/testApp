@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TestApp</string>
+    <string name="issues_d">Issues: %d</string>
+    <string name="user_s">User: %s</string>
+    <string name="repository_s">Repository: %s</string>
+    <string name="watchers_d">Watchers: %d</string>
+    <string name="forks_d">Forks: %d</string>
+    <string name="loading">Loading</string>
+    <string name="tag_list_is_empty">Tag list is empty</string>
+    <string name="list_is_empty">Repositories list is empty</string>
 </resources>
